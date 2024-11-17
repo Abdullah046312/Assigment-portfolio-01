@@ -1,0 +1,146 @@
+.banner_inner {
+    background-color: blueviolet;
+    height: 700px;
+
+}
+.mamun{
+    align-items: center;
+}
+.navbar-nav{
+  column-gap: 50px;
+  font-size: 18px;
+  color:#181818;
+  font-weight: 500;
+  font-family: "Inter", sans-seri; 
+}
+.nav-item li a{
+    font-size: 18px;
+    color:#181818;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+
+}
+
+.banner_left h2{
+    color: #fff;
+    font-size: 65px;
+    font-weight: bold;
+    font-family: "Inter", sans-serif;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.banner_left p{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+.banner_left button{
+    margin-top: 50px;
+    background-color: #fff;
+    color: blue;
+    margin-left: 50px;
+}
+.banner_right img{
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.img_text_inner{
+    height: 350px;
+    box-shadow: -2px -1px 17px 9px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -2px -1px 17px 9px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px -1px 17px 9px rgba(0,0,0,0.75);
+   margin-bottom: 20px;
+   
+}
+.img_text_inner img{
+    margin-top: 50px;
+    margin-left: 10px;
+   
+}
+.img_text_inner h2{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    color:#181818;
+    font-family: "Inter", sans-serif;
+}
+.img_text_inner p{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    color:#181818 70%;
+    font-family: "Inter", sans-serif;
+}
+
+.text_inner{
+    text-align: center;
+    
+}
+.text_inner h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: #181818;
+    font-family: "Inter", sans-serif;
+}
+.text_inner p{
+    font-size: 16px;
+    font-weight: 400;
+    color:#181818 70%;
+    font-family: "Inter", sans-serif;
+}
+.our_work_inner img{
+    margin-top: 30px;
+}
+.about_care_img img{
+    margin-top: 30px;
+}
+.text_left h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: #181818;
+    font-family: "Inter", sans-serif;
+}
+.text_left p {
+    font-size: 16px;
+    font-weight: 400;
+    color:#181818 70%;
+    font-family: "Inter", sans-serif;
+}
+.about_care_text p{
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    color:#181818 70%;
+    font-family: "Inter", sans-serif;
+}
+
+.about_care_text h3{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color:#181818;
+    font-family: "Inter",sans-serif;
+}
+.about_care_text h4{
+    
+    font-size: 16px;
+    font-weight: 400;
+    color:#5D5D5D;
+    font-family: "Inter",sans-serif;
+}
+.about_care_text{
+    
+    box-shadow: -1px 0px 0px 7px rgba(0,0,0,0.21);
+-webkit-box-shadow: -1px 0px 0px 7px rgba(0,0,0,0.21);
+-moz-box-shadow: -1px 0px 0px 7px rgba(0,0,0,0.21);
+
+}
+
